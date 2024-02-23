@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "NeverGiveUP",
       "repo": "https://github.com/RT1648/android_kernel_asus_sdm660",
-      "branch": "lineage-21",
+      "branch": "fourteen",
       "device": "X01BD",
       "defconfig": "vendor/X01BD_defconfig"
   },
