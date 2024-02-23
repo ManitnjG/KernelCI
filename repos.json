@@ -1,13 +1,13 @@
 [
   {
     "kernelSource": {
-      "name": "Never死んだ",
-      "repo": "https://github.com/mayuri-hikari/android_kernel_xiaomi_oxygen",
+      "name": "NeverGiveUP",
+      "repo": "https://github.com/RT1648/android_kernel_asus_sdm660",
       "branch": "lineage-21",
-      "device": "ysl",
-      "defconfig": "vendor/msm8953-perf_defconfig"
+      "device": "X01BD",
+      "defconfig": "vendor/X01BD_defconfig"
   },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://github.com/kdrag0n/proton-clang",
